@@ -37,7 +37,7 @@ def pic():
            <a href=#capt1>
            <img src="/static/pic1.jpg">
            </a>
-           <div class=caption id=capt1>Jardaber og vofflur</div>
+           <div class=caption id=capt1>Jardaber og vofflur með rjóma</div>
            <hr>
            <a href=#capt2>
            <img src="/static/pic2.jpg">
