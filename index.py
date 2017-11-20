@@ -32,7 +32,7 @@ def pic():
            <a href=#capt0>
            <img src="/static/pic0.jpg" style="width:200px;height:400px;">
            </a>
-           <div class=caption id=capt0>Stundum er lett ad angra folk</div>
+           <div class=caption id=capt0>Stundum er lett ad angra folk og dyr</div>
            <hr>
            <a href=#capt1>
            <img src="/static/pic1.jpg">
